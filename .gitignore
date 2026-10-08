@@ -1,0 +1,4 @@
+source/
+build/pdftext.json
+.DS_Store
+.claude/

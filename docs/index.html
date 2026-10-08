@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>hopecore notes</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Notes">
+<meta name="theme-color" content="#000000">
+<meta name="format-detection" content="telephone=no">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div id="app">
+  <header class="bar top">
+    <button id="counter" class="counter" aria-label="Jump to slide">
+      <span class="num"><b id="cur">1</b><span class="of">/ <span id="total">0</span></span></span>
+      <span id="section" class="section"></span>
+    </button>
+    <div class="tools">
+      <button id="openGrid" class="icon" aria-label="Slide overview">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="1.5"/></svg>
+      </button>
+      <button id="openSettings" class="icon text" aria-label="Settings">Aa</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <figure id="preview" class="preview">
+      <img id="thumb" class="thumb" alt="">
+      <figcaption id="nextWrap" class="next-mini"><img id="nextThumb" alt=""><span id="nextLabel"></span></figcaption>
+    </figure>
+    <section id="notesScroll" class="notes-scroll">
+      <div id="notes" class="notes"></div>
+      <div id="after" class="after">
+        <span id="afterLabel"></span>
+        <img id="afterThumb" alt="">
+      </div>
+    </section>
+  </main>
+
+  <footer class="bar bottom">
+    <button id="prev" class="nav prev" aria-label="Previous slide">‹ Prev</button>
+    <button id="next" class="nav next" aria-label="Next slide">Next ›</button>
+  </footer>
+</div>
+
+<div id="grid" class="sheet full" hidden>
+  <div class="sheet-head">
+    <h2>All slides</h2>
+    <button class="close" data-close aria-label="Close overview">Done</button>
+  </div>
+  <div id="gridBody" class="grid-body"></div>
+</div>
+
+<div id="jump" class="sheet" hidden>
+  <div class="sheet-card">
+    <div class="sheet-head">
+      <h2>Go to slide</h2>
+      <button class="close" data-close aria-label="Close">Cancel</button>
+    </div>
+    <form id="jumpForm" autocomplete="off">
+      <div class="jump-row">
+        <input id="jumpInput" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="3" aria-label="Slide number">
+        <button id="jumpGo" type="submit" class="go">Go</button>
+      </div>
+      <div class="steps">
+        <button type="button" data-step="-10">−10</button>
+        <button type="button" data-step="-1">−1</button>
+        <button type="button" data-step="1">+1</button>
+        <button type="button" data-step="10">+10</button>
+      </div>
+      <p id="jumpHint" class="hint"></p>
+      <img id="jumpThumb" class="jump-thumb" alt="">
+    </form>
+  </div>
+</div>
+
+<div id="settings" class="sheet" hidden>
+  <div class="sheet-card">
+    <div class="sheet-head">
+      <h2>Settings</h2>
+      <button class="close" data-close aria-label="Close settings">Done</button>
+    </div>
+    <div class="setting">
+      <span>Text size</span>
+      <div class="seg">
+        <button id="fontDown" aria-label="Smaller text">A−</button>
+        <span id="fontVal" class="val"></span>
+        <button id="fontUp" aria-label="Larger text">A+</button>
+      </div>
+    </div>
+    <div class="setting">
+      <span>Theme</span>
+      <div class="seg" id="themeSeg">
+        <button data-theme-opt="dark">Dark</button>
+        <button data-theme-opt="light">Light</button>
+        <button data-theme-opt="auto">Auto</button>
+      </div>
+    </div>
+    <div class="setting">
+      <span>Slide preview</span>
+      <div class="seg" id="previewSeg">
+        <button data-preview-opt="large">Large</button>
+        <button data-preview-opt="small">+ Next</button>
+      </div>
+    </div>
+    <div class="setting">
+      <span>Keep screen on</span>
+      <div class="seg" id="wakeSeg">
+        <button data-wake-opt="on">On</button>
+        <button data-wake-opt="off">Off</button>
+      </div>
+    </div>
+    <p id="wakeNote" class="hint"></p>
+    <p id="offline" class="status"></p>
+  </div>
+</div>
+
+<script src="slides.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
