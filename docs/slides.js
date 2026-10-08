@@ -1,6 +1,6 @@
 window.DECK = {
  "title": "hopecore",
- "built": "8 Oct 2026, 05:32",
+ "built": "8 Oct 2026, 13:07",
  "slides": [
   {
    "n": 1,
@@ -346,156 +346,162 @@ window.DECK = {
   },
   {
    "n": 58,
+   "id": "modern-biology",
+   "section": "Fan relationships and streaming economics.",
+   "notes": "Modern Biology is Tarun Nayar, a Vancouver-based musician and former biologist. He uses electrical signals from mushrooms and plants to control synthesizers and create music.\n\nHe organises outdoor listening events called Field Trips and Mushroom Church gatherings, bringing people together around music and nature.\n\nHe also collaborated with Instruō to develop the Pocket SCÍON, a portable bioelectric synthesizer that he sells online and at gigs.\n\nIt’s a great example of building an entire world around a distinctive creative idea: music, community, live events and a physical product that fans can use themselves."
+  },
+  {
+   "n": 59,
    "id": "not-on-own",
    "section": "Scenes and networks.",
    "notes": "Widen from artist strategy to ecosystem.\n\nAn artist cannot single-handedly manufacture a healthy scene.\n\nCulture needs other people performing different roles."
   },
   {
-   "n": 59,
+   "n": 60,
    "id": "networks",
    "section": "Scenes and networks.",
    "notes": "Brian Eno's “scenius” is the useful concept. Austin Kleon describes the idea as an ecology of talent. Creative environments contain: - artists - other artists - curators - promoters - writers - designers - venues - DJs - record stores - labels - friends - audiences - local communities The lone genius story hides the network that made the work possible. Use the drawing: genius on the pedestal, versus a person embedded in a dense network."
   },
   {
-   "n": 60,
+   "n": 61,
    "id": "your-scene",
    "section": "Scenes and networks.",
    "notes": "Bring it back to the room.\n\nAsk:\n- who are your people?\n- who gives you opportunities?\n- whose work do you support?\n- where do people actually meet?\n- which roles are missing?\n- what is local?\n- what is distributed online?\n\n“Scene” no longer has to mean one neighbourhood and one genre."
   },
   {
-   "n": 61,
+   "n": 62,
    "id": "memes",
    "section": "Scenes and networks.",
    "notes": "This is partly speculative.\n\nScenes already:\n- quote\n- borrow\n- sample\n- remix\n- mutate\n- pass ideas around\n\nMemes show what happens when cultural objects become extremely easy to reproduce and edit. A thing can circulate globally, or only make sense to six people.\n\nGenerative tools dramatically lower the friction for doing this with music.\n\nThe challenge is infrastructure. Recorded-music rights and payment systems are built around relatively identifiable:\n- works\n- recordings\n- ownership relationships\n\nIf derivative culture becomes much more fluid, attribution, permission and value-routing need to improve too.\n\nCallback to the opening tweet:\n“This is a much more interesting version of infinite music to me than an endless personalised synthetic feed.”\n\nMusic becoming participatory, remixable and contextual, rather than simply more supply."
   },
   {
-   "n": 62,
+   "n": 63,
    "id": "not-doomed",
    "section": "Agency.",
    "notes": "Keep plain.\n\nThere are real problems:\n- economic pressure\n- synthetic media\n- platform dependence\n- attention pressure\n\nBut people still:\n- seek other people\n- form scenes\n- gather\n- obsess\n- buy objects\n- go to shows\n- build identities around artists\n- make culture together\n\nThose behaviours do not disappear because generation becomes cheap."
   },
   {
-   "n": 63,
+   "n": 64,
    "id": "future-look",
    "section": "Agency.",
    "notes": "This is the shift from prediction to agency.\n\nWe spend huge amounts of time asking: “What will AI do?”\n\nThat makes the future feel like something arriving from outside.\n\nInstead ask:\n- what should exist in ten years?\n- how should artists earn?\n- how should discovery work?\n- what relationships should fans have?\n- what should technology make easier?\n- what should disappear?\n\nNow introduce a method for thinking that way."
   },
   {
-   "n": 64,
+   "n": 65,
    "id": "hopkins-photo",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Rob Hopkins is a British environmental activist and founder of the Transition movement. The strange image is not arbitrary. Hopkins has actually used “time traveller” performance as a technique. After seeing a Black Lives Matter protest sign built around the idea “I've been to the future. We won.”, he later appeared at an Extinction Rebellion talk dressed as though he had returned from a successful future. He used the premise: I have come back from a future where the transformation worked. His broader question: can people develop something like a memory of a future that went well?"
   },
   {
-   "n": 65,
+   "n": 66,
    "id": "hopkins-who",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Mention How to Fall in Love with the Future.\n\nHis broader work is about rebuilding imagination as a practical capacity. Especially when public conversation becomes dominated by:\n- catastrophe\n- inevitability\n- pessimism\n- prediction\n\nThis influenced how I think about optimism and agency.\n\nKeep brief."
   },
   {
-   "n": 66,
+   "n": 67,
    "id": "we-won",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "The move is simple.\n\nFor a short period, suspend the question: “Is this realistic?”\n\nAssume transformation happened.\n\n“We've been there. We won. Now let's look around.”\n\nThis is different from normal forecasting. Forecasting extrapolates from today. This exercise starts from the desired state."
   },
   {
-   "n": 67,
+   "n": 68,
    "id": "time-machine",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Introduce the exercise clearly. Ten years ahead. A deep positive transformation has happened in music. Not perfection. Meaningful improvement. Ask people to imagine: - sensory detail - social detail - concrete places - behaviour Not slogans. Ask: What does it look like? What does it sound like? How does it feel? Workshop framing: “I'm going to give you a series of questions. You don't need to answer all of them. Don't treat this like a questionnaire. Just use whichever questions open something up for you.” Timing: FULL: around 20–25 min MEDIUM: around 12–15 min VERY SHORT: around 5 min"
   },
   {
-   "n": 68,
+   "n": 69,
    "id": "year-2035",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Pause.\n\n“We made it.”\n\nGive people a moment.\n\nIf the room is completely stuck, possible prompts from my own imagined future include:\n- AI is boring infrastructure\n- local scenes are stronger\n- listening parties are common\n- music is embedded in social formats like running clubs\n- personalised remixing is normal\n- derivative use can route value back to sources\n\nOnly use these if needed. Don't lead with them."
   },
   {
-   "n": 69,
+   "n": 70,
    "id": "imagine-sound",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Read slowly.\n\nLet them imagine places as well as sound.\n\nPossible mental prompts if needed:\n- bedrooms\n- streets\n- venues\n- headphones\n- shared rooms\n- games\n- clubs\n- public space\n- somewhere that does not exist yet\n\nDon't ask for answers yet. Silence is useful.\n\nALWAYS USE this slide."
   },
   {
-   "n": 70,
+   "n": 71,
    "id": "imagine-artists",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Move from aesthetics to livelihood.\n\nPossible areas:\n- streaming\n- tickets\n- patronage\n- direct sales\n- licensing\n- membership\n- public funding\n- something entirely new\n\nAsk: what changed enough to make artistic life more sustainable?\n\nOPTIONAL if running late."
   },
   {
-   "n": 71,
+   "n": 72,
    "id": "imagine-fans",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Discovery might happen through:\n- algorithms\n- friends\n- scenes\n- DJs\n- radio\n- live events\n- curators\n- AI\n- something new\n\nThen fandom: are people passively listening, or actively participating? What do fans actually do?\n\nOPTIONAL if running late."
   },
   {
-   "n": 72,
+   "n": 73,
    "id": "imagine-ai",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "The wording deliberately does not assume either disappeared.\n\nPossible futures could include:\n- streaming becomes background infrastructure\n- payment models change\n- AI becomes a tool rather than a category\n- synthetic music is everywhere\n- nobody cares about human/AI distinction except in specific contexts\n\nLet the audience decide.\n\nOPTIONAL if running late."
   },
   {
-   "n": 73,
+   "n": 74,
    "id": "imagine-feel",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "This is the strongest imagination prompt. Ask: what did we stop tolerating? What institution, habit or business model disappeared? Then: what became normal in 2035 that sounds strange today? Finally move away from analysis: how does this music culture feel to live inside? Leave a proper silence. ALWAYS USE this slide."
   },
   {
-   "n": 74,
+   "n": 75,
    "id": "talk-1",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Ask them to: - introduce themselves - describe what they saw Encourage them to speak from inside the future. Don't immediately debate whether it is plausible. FULL / MEDIUM: around 3–4 minutes. VERY SHORT: skip."
   },
   {
-   "n": 75,
+   "n": 76,
    "id": "rewind",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Introduce backcasting.\n\nForecasting asks: “Given today, what probably happens next?”\n\nBackcasting asks: “We know where we ended up. What had to happen to get here?”\n\nUse: “We know where we ended up. Now look backwards.\""
   },
   {
-   "n": 76,
+   "n": 77,
    "id": "back-1",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Ask them to identify mechanisms.\n\nWhat changed because artists built it?\n\nWhat required:\n- law\n- platform change\n- infrastructure\n- investment\n\nWhat stopped working because audiences stopped accepting it?\n\nThis turns imagination into causality.\n\nFULL / MEDIUM. Skip if very short."
   },
   {
-   "n": 77,
+   "n": 78,
    "id": "back-2",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Ask people to identify one turning point.\n\nCould be:\n- regulation\n- protocol\n- cultural shift\n- famous artist doing something first\n- new venue type\n- new technology\n- new business model\n\nOne milestone is enough.\n\nSkip if very short."
   },
   {
-   "n": 78,
+   "n": 79,
    "id": "talk-2",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Share one major milestone with your partner.\n\nFULL: 2–3 min\nMEDIUM: 1–2 min\nSHORT: skip"
   },
   {
-   "n": 79,
+   "n": 80,
    "id": "room-see",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "Take several answers.\n\nDon't critique each answer. Short follow-ups are fine.\n\nUseful follow-up: “What made that possible?”\n\nTry to get materially different futures rather than several versions of the same one."
   },
   {
-   "n": 80,
+   "n": 81,
    "id": "room-valuable",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "OPTIONAL. This connects directly back to the keynote. When music itself became abundant, what acquired value? Possible prompts only if the room needs them: - time - presence - trust - provenance - physical space - curation - access - community - live performance - local knowledge Let the audience answer first."
   },
   {
-   "n": 81,
+   "n": 82,
    "id": "room-together",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "OPTIONAL.\n\nAsk what institutions, formats or rituals did the work.\n\nPossible examples if needed:\n- venues\n- clubs\n- shared listening\n- schools\n- festivals\n- online communities\n- local scenes\n- something new\n\nThis can call back to Offline Club, run clubs and listening parties without repeating the earlier section."
   },
   {
-   "n": 82,
+   "n": 83,
    "id": "room-start",
    "section": "Rob Hopkins and the 2035 workshop.",
    "notes": "This is the endpoint. Take the big imagined future and shrink it into something with agency. Not: “What will Spotify do?” Ask: “What can we begin building, testing, organising or supporting already?” Take a few answers if the room has them. Then stop. No keynote summary afterwards."
   },
   {
-   "n": 83,
+   "n": 84,
    "id": "thanks",
    "section": "Thank you.",
    "notes": "Thank the audience.\n\nLeave this slide on screen during:\n- applause\n- Q&A\n- organiser interview\n\nNo slide after this."

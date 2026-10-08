@@ -1,6 +1,6 @@
 # hopecore notes
 
-An offline speaker-notes viewer for the iPhone, for the 83-slide **hopecore** keynote. It only shows notes. It does not connect to or control the presentation.
+An offline speaker-notes viewer for the iPhone, for the 84-slide **hopecore** keynote. It only shows notes. It does not connect to or control the presentation.
 
 - `docs/` is the app that goes on GitHub Pages: `index.html`, `app.css`, `app.js`, the generated `slides.js`, `sw.js`, `thumbs/` and `icons/`.
 - `build/` holds the build: `build.py` drives it, `pdf.swift` renders the thumbnails, `icon.swift` draws the app icon, and `sw.template.js` is the service-worker template.
@@ -17,15 +17,15 @@ An offline speaker-notes viewer for the iPhone, for the 83-slide **hopecore** ke
 1. Open **https://basgras.github.io/hopecore-notes/** in **Safari**. It has to be Safari: other browsers can't install it.
 2. Tap **Share** → **Add to Home Screen** → **Add**.
 3. Open **Notes** from the Home Screen. Wait about 10 seconds while it saves everything (about 10 MB).
-4. Tap **Aa**. At the bottom you should see **"Ready offline ✓ 83/83 slides and notes saved on this phone. Built …"**. If it still says "Saving…", close Settings and open it again after a few seconds.
+4. Tap **Aa**. At the bottom you should see **"Ready offline ✓ 84/84 slides and notes saved on this phone. Built …"**. If it still says "Saving…", close Settings and open it again after a few seconds.
 
 ## Test it offline before the talk
 
 1. Turn on **Airplane Mode** and turn Wi-Fi off.
 2. Swipe the Notes app away in the app switcher to fully close it.
 3. Open it again from the Home Screen. It should reopen on the slide you were last on.
-4. Tap ▦ and scroll the whole overview. All 83 thumbnails should be there.
-5. Tap the slide number, type `83`, and tap **Go**. Check the last slide.
+4. Tap ▦ and scroll the whole overview. All 84 thumbnails should be there.
+5. Tap the slide number, type `84`, and tap **Go**. Check the last slide.
 
 ## On stage
 
