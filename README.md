@@ -14,7 +14,7 @@ An offline speaker-notes viewer for the iPhone, for the 83-slide **hopecore** ke
 
 ## Install on your iPhone (do this once, on Wi-Fi)
 
-1. Open the GitHub Pages URL in **Safari**. It has to be Safari: other browsers can't install it.
+1. Open **https://basgras.github.io/hopecore-notes/** in **Safari**. It has to be Safari: other browsers can't install it.
 2. Tap **Share** → **Add to Home Screen** → **Add**.
 3. Open **Notes** from the Home Screen. Wait about 10 seconds while it saves everything (about 10 MB).
 4. Tap **Aa**. At the bottom you should see **"Ready offline ✓ 83/83 slides and notes saved on this phone. Built …"**. If it still says "Saving…", close Settings and open it again after a few seconds.
